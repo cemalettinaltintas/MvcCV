@@ -2444,6 +2444,7 @@
     <Content Include="login-form-20\scss\bootstrap\_utilities.scss" />
     <Content Include="login-form-20\scss\bootstrap\_variables.scss" />
     <Content Include="login-form-20\scss\style.scss" />
+    <Content Include="DbYedek\DbCv.bak" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
